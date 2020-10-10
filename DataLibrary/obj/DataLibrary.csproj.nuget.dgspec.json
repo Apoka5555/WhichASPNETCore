@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Программирование\\Udemy\\Which ASP.NET Core\\WhichASPNetCore\\DataLibrary\\DataLibrary.csproj": {}
+  },
+  "projects": {
+    "D:\\Программирование\\Udemy\\Which ASP.NET Core\\WhichASPNetCore\\DataLibrary\\DataLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Программирование\\Udemy\\Which ASP.NET Core\\WhichASPNetCore\\DataLibrary\\DataLibrary.csproj",
+        "projectName": "DataLibrary",
+        "projectPath": "D:\\Программирование\\Udemy\\Which ASP.NET Core\\WhichASPNetCore\\DataLibrary\\DataLibrary.csproj",
+        "packagesPath": "C:\\Users\\Apoka5555\\.nuget\\packages\\",
+        "outputPath": "D:\\Программирование\\Udemy\\Which ASP.NET Core\\WhichASPNetCore\\DataLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Apoka5555\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

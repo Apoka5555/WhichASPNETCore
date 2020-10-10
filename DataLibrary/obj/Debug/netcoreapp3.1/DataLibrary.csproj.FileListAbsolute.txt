@@ -1,0 +1,14 @@
+D:\Программирование\Udemy\Which ASP.NET Core\AspNetCoreCommon\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+D:\Программирование\Udemy\Which ASP.NET Core\AspNetCoreCommon\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+D:\Программирование\Udemy\Which ASP.NET Core\AspNetCoreCommon\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+D:\Программирование\Udemy\Which ASP.NET Core\AspNetCoreCommon\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+D:\Программирование\Udemy\Which ASP.NET Core\AspNetCoreCommon\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+D:\Программирование\Udemy\Which ASP.NET Core\WhichASPNetCore\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+D:\Программирование\Udemy\Which ASP.NET Core\WhichASPNetCore\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+D:\Программирование\Udemy\Which ASP.NET Core\WhichASPNetCore\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.pdb
+D:\Программирование\Udemy\Which ASP.NET Core\WhichASPNetCore\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+D:\Программирование\Udemy\Which ASP.NET Core\WhichASPNetCore\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+D:\Программирование\Udemy\Which ASP.NET Core\WhichASPNetCore\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+D:\Программирование\Udemy\Which ASP.NET Core\WhichASPNetCore\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
+D:\Программирование\Udemy\Which ASP.NET Core\WhichASPNetCore\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.dll
+D:\Программирование\Udemy\Which ASP.NET Core\WhichASPNetCore\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.pdb

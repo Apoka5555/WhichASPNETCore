@@ -1,0 +1,5 @@
+D:\Программирование\Udemy\Which ASP.NET Core\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dacpac
+D:\Программирование\Udemy\Which ASP.NET Core\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dll
+D:\Программирование\Udemy\Which ASP.NET Core\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.pdb
+D:\Программирование\Udemy\Which ASP.NET Core\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.dll
+D:\Программирование\Udemy\Which ASP.NET Core\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.pdb
